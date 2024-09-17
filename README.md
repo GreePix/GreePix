@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GreePix
-- 👀 I’m interested in programing and gaming
-- 🌱 I’m currently learning programing and gaming
-- 💞️ I’m looking to collaborate on ...
-- 📫 My Discord no :>
+- 👋 Hi, I’m GrzyPix
+- 👀 I’m interested in IT and robotic. Everything mechanical and computer like.
+- 🌱 I’m currently learning programing and making 3D projects and machines!
+- 📫 My Discord: grzypix
 
 <!---
 GreePix/GreePix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
